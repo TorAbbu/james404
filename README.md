@@ -2,10 +2,26 @@
 # Busra-Login[README.md](https://github.com/TorAbbu/james404/files/9003995/README.md)
 
 
+
+
+
+
+
+
+
+
+.git clone https://github.com/TorAbbu/james404.git
+
 ls
 
-Cd torabbu
+Cd james404
 
 ls
 
-python2 file.py
+python Rinku.py
+
+
+
+
+
+
